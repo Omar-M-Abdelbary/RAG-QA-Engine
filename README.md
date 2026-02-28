@@ -158,14 +158,3 @@ Responses are validated with Pydantic models defined in `app/schemas`.
 
 Contributions and enhancements are welcome!
 
----
-
-## License
-
-This project is provided for educational and demonstration purposes. Adjust licensing
-as needed depending on your organization’s requirements.
-
----
-
-Feel free to adapt this README further based on your distribution channel, packaging
-requirements, or audience. Happy building!
